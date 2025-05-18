@@ -187,8 +187,7 @@ section ol {
     padding: 0 0 2rem 0;
   }
 
-  #omelette-img {
-    width: 100%;
+  .omelette-img {
     border-radius: 0px;
   }
 
